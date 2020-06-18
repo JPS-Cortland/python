@@ -2,7 +2,7 @@
 # but since SLAC uses Python quite a bit, I thought
 # I would write a simple Python script to show that
 # I can pick it up pretty quickly.
-#
+#    (Branch variation01 June 18, 2020)
 # This is based on various topics in the Python tutorial:
 # https://docs.python.org/3/tutorial/
 #
